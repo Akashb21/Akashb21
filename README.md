@@ -41,10 +41,8 @@ Personal portfolio showcasing web development projects and skills using React + 
 
 ---
 
-## 🌐 Connect with Me  
-
-📧 **Email:** [banothakashnayak@example.com](mailto:banothakashnayak@example.com)  
-💼 **LinkedIn:** [linkedin.com/in/akashbanoth](https://www.linkedin.com/in/akash-banoth-2bb7b536b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/unf_404_?igsh=MWFodzZ0cWVqbHcwdg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akash-banoth-2bb7b536b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:banothakashnayak@gmail.com)  
 
 
 ---
